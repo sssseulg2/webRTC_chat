@@ -4,6 +4,6 @@
 # install
 npm install 
 
-# Start the FE in dev mode
+# Start run
 npm run serve
 
